@@ -1,0 +1,5 @@
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAILURE = 'FETCH_DATA_FAILURE';
+export const ADD_DATA = 'ADD_DATA';
+export const ADD_FROM_FILE = 'ADD_FROM_FILE';
+export const DELETE_EVENT = 'DELETE_EVENT';
